@@ -10,7 +10,8 @@ Diverse Co-saliency Feature Learning for Text-Based Person Retrieval
 we use single RTX3090 24G GPU for training and evaluation. 
 ```
 Python 3.9
-Pytorch 2.0.0 & torchvision 0.15.0
+Pytorch 2.0.0 
+torchvision 0.15.0
 ```
 #### Modify the ./anaconda3/envs/xxx/lib/python3.9/site-packages/torch/nn/functional.py file.
 ##### Before the modification is as follows:

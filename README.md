@@ -69,19 +69,6 @@ python train.py
 ```python
 python test.py
 ```
-#### Comparison with other methods on three datasets (CUHK-PEDES, ICFG-PEDES, and RSTPReid). Rank-1, Rank-5, and Rank-10 represent the accuracy (%), with higher values indicating better performance.
-![](images/res.png)
-
-
-
-
-[Model & log for CUHK-PEDES](https://drive.google.com/file/d/1OBhFhpZpltRMZ88K6ceNUv4vZgevsFCW/view?usp=share_link)
-
-[Model & log for ICFG-PEDES](https://drive.google.com/file/d/1Y3D7zZsKPpuEHWJ9nVecUW-HaKdjDI9g/view?usp=share_link)
-
-[Model & log for RSTPReid](https://drive.google.com/file/d/1LpUHkLErEWkJiXyWYxWwiK-8Fz1_1QGY/view?usp=share_link)
-
-
 
 ## Acknowledgments
 Some components of this code implementation are adopted from [PFM-EKFP](https://github.com/lhf12278/PFM-EKFP) and [IRRA](https://github.com/BrandonHanx/TextReID). We sincerely appreciate for their contributions.
